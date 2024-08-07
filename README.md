@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lamrani-al&label=Profile%20views&color=0e75b6&style=flat" alt="lamrani-al" /> </p>
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **Software Engineer and Smart Manufacturing**
 
 - 📫 How to reach me **othmanelamranialaoui@gmail.com**
 
